@@ -1,0 +1,12 @@
+D:\An 2 sem 2\PIU\Proiect\Medicament\bin\Debug\Medicament.dll
+D:\An 2 sem 2\PIU\Proiect\Medicament\bin\Debug\Medicament.pdb
+D:\An 2 sem 2\PIU\Proiect\Medicament\obj\Debug\Medicament.csproj.CoreCompileInputs.cache
+D:\An 2 sem 2\PIU\Proiect\Medicament\obj\Debug\Medicament.dll
+D:\An 2 sem 2\PIU\Proiect\Medicament\obj\Debug\Medicament.pdb
+D:\An 2 sem 2\PIU\Proiect\Medicament\obj\Debug\Medicament.csproj.AssemblyReference.cache
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Medicament\bin\Debug\Medicament.dll
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Medicament\bin\Debug\Medicament.pdb
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Medicament\obj\Debug\Medicament.csproj.AssemblyReference.cache
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Medicament\obj\Debug\Medicament.csproj.CoreCompileInputs.cache
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Medicament\obj\Debug\Medicament.dll
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Medicament\obj\Debug\Medicament.pdb

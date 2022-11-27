@@ -1,0 +1,38 @@
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.csproj.AssemblyReference.cache
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.Properties.Resources.resources
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.csproj.GenerateResource.cache
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.csproj.CoreCompileInputs.cache
+D:\An 2 sem 2\PIU\Proiect\Interfata\bin\Debug\Interfata.exe.config
+D:\An 2 sem 2\PIU\Proiect\Interfata\bin\Debug\Interfata.exe
+D:\An 2 sem 2\PIU\Proiect\Interfata\bin\Debug\Interfata.pdb
+D:\An 2 sem 2\PIU\Proiect\Interfata\bin\Debug\Medicament.dll
+D:\An 2 sem 2\PIU\Proiect\Interfata\bin\Debug\NivelStocareDate.dll
+D:\An 2 sem 2\PIU\Proiect\Interfata\bin\Debug\Medicament.pdb
+D:\An 2 sem 2\PIU\Proiect\Interfata\bin\Debug\NivelStocareDate.pdb
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.csproj.CopyComplete
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.exe
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.pdb
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\UI_WindowsForms.Form1.resources
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.Forms.FormStoc_farmacie.resources
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.Forms.FormAdauga.resources
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.Forms.FormCauta.resources
+D:\An 2 sem 2\PIU\Proiect\Interfata\obj\Debug\Interfata.Forms.FormModifica.resources
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\bin\Debug\Interfata.exe.config
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\bin\Debug\Interfata.exe
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\bin\Debug\Interfata.pdb
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\bin\Debug\Medicament.dll
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\bin\Debug\NivelStocareDate.dll
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\bin\Debug\Medicament.pdb
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\bin\Debug\NivelStocareDate.pdb
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.csproj.AssemblyReference.cache
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\UI_WindowsForms.Form1.resources
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.Forms.FormAdauga.resources
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.Forms.FormCauta.resources
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.Forms.FormModifica.resources
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.Forms.FormStoc_farmacie.resources
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.Properties.Resources.resources
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.csproj.GenerateResource.cache
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.csproj.CoreCompileInputs.cache
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.csproj.CopyComplete
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.exe
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\Interfata\obj\Debug\Interfata.pdb

@@ -1,0 +1,18 @@
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\bin\Debug\Medicament.dll
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\bin\Debug\Medicament.pdb
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+D:\An 2 sem 2\PIU\Proiect\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\bin\Debug\Medicament.dll
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\bin\Debug\Medicament.pdb
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+G:\an2\PIU\Shipor Eduard Ionel\Shipor Eduard Ionel\NivelStocareDate\obj\Debug\NivelStocareDate.pdb

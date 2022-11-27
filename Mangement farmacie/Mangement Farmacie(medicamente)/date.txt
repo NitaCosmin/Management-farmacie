@@ -1,0 +1,11 @@
+1;Nurofen;35;
+2;Ibubrofen;57;
+3;Mibazon;99;
+4;Betadina;45;
+5;Antinevralgic;17;
+6;Aciclovir;36;
+8;Panadol;13;
+9;Aspirina;13;
+10;Coldrex;45;
+11;Asocilin;18
+12;TeraFlu;14
